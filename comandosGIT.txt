@@ -1,7 +1,7 @@
-  
-  
- _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _     S U B I R   C A M B I O S   A   U N A   R A M A 
-|  Git Comandos:                  |     _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+G I T                                  S U B I R   C A M B I O S A 
+  C O M A N D O S:                             A   U N A   R A M A:
+ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _      
+|                                 |     _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 |  cd mi-proyecto                 |    |                                   |
 | 1- git init                     |--->|  Mismos pasos hasta el 4 (commit) |------
 | 2- git status                   |    |  1- git push origin nombre_rama   |     | 
