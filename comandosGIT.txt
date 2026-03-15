@@ -1,0 +1,34 @@
+  
+  
+ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _     S U B I R   C A M B I O S   A   U N A   R A M A 
+|  Git Comandos:                  |     _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+|  cd mi-proyecto                 |    |                                   |
+| 1- git init                     |--->|  Mismos pasos hasta el 4 (commit) |------
+| 2- git status                   |    |  1- git push origin nombre_rama   |     | 
+| 3- git add . (. agrega todo)    |    |_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _|     V  
+| 4- git commit -m "Comentario"   |        __________________________________________________________________
+| 5- git remote add origin https: |       |                                                                  |
+| 6- git branch -M main           |       |   pull (actualizar tu proyecto/obtener                           |
+| 7- git push -u origin main      |       |         cambios de otros colaboradores)                          |
+|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _|       |   Branch (copia del proyecto sin afectar el código principal)    |
+                                          |   commit (commit guarda cambios en el historial del proyecto)    | 
+ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _        |   push (Sube tus cambios al repositorio remoto (GitHub))         |
+|Comandos extra:                  |       |   pull request (es una solicitud para fusionar tu trabajo con el |
+| 1- git Branch (Ver las ramas    |       |                   proyecto principal)                            |
+| la rama en uso será             |       |__________________________________________________________________|
+| identificada por *))            |
+| 2- git checkout -b nombre_rama  |
+|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _|
+
+ 
+
+
+winget upgrade --all ---- 
+                         |
+                         V 
+Actualiza todas las dependencias de Windows
+incluyendo Software 
+
+
+
+
